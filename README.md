@@ -1,11 +1,9 @@
-Hi! 👋
+command line: 
 
-You've opened the IDE Sandbox. 🎉
+pwd- print working directory (directory==folder)
+ls--> list (wil tell you what files and folders are in the directory)
+mkdir nameGoesHere--> creates a folder/directory 
+cd- change directory 
+touch filename.txt --> creates a new file 
+rm filename.txt--> delete a file (remove)
 
-The Sandbox is an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code when you're not working on a "lab" (labs open the IDE In Browser).
-
-The work you do in the Sandbox will be saved from lesson to lesson, and is automatically saved on your behalf to a repository in your GitHub account called `learn-co-sandbox`.
-
-Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
-
-To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
